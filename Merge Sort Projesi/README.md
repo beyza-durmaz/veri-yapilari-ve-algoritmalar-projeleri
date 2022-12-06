@@ -1,5 +1,5 @@
 ## Merge Sort
-* Proje 1
+* Proje 2
 > 1.Soru: 
 
 [16,21,11,8,12,22] 
